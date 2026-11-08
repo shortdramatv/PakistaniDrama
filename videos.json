@@ -1,4 +1,3 @@
-
 {
   "videos": [
     {
@@ -9,8 +8,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/KnsCZyDMkiQ/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:26.000Z",
       "showOnHome": true
     },
@@ -22,8 +21,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/61bMlGyZ7mE/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:25.000Z",
       "showOnHome": true
     },
@@ -35,8 +34,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/u2Zj3Tr86gU/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:24.000Z",
       "showOnHome": true
     },
@@ -48,8 +47,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/N23HypBrCf4/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:23.000Z",
       "showOnHome": true
     },
@@ -61,8 +60,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/BrT1hYxKj14/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:22.000Z",
       "showOnHome": true
     },
@@ -74,8 +73,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/XVghBBLmd2M/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:21.000Z",
       "showOnHome": true
     },
@@ -87,8 +86,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/TKn9REw-qpU/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:20.000Z",
       "showOnHome": true
     },
@@ -100,8 +99,8 @@
       "thumbnailUrl": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
       "category": "Yahya",
       "categoryIcon": "https://img.youtube.com/vi/AM2qLIz8dKo/maxresdefault.jpg",
-      "movieType": "Pakistani Drama",
-      "language": "Urdu, Hindi",
+      "movieType": "Pakistani",
+      "language": "Hindi",
       "createdAt": "2026-11-08T16:03:19.000Z",
       "showOnHome": true
     }
